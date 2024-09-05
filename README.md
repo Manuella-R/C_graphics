@@ -16,9 +16,9 @@ This project demonstrates how to use pandas in Python . It includes examples of 
 
 ## Prerequisites
 
-- Python 3
-- pandas library
-- openpyxl library
+- Python 3 and above
+- pandas library (for data processing)
+- openpyxl library(for handling excel files)
 - logging
 
 ## How it works

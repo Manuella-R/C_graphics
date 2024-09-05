@@ -21,4 +21,4 @@ df['Email'] = df['Student Name'].apply(generate_email)
 df['Email'] = df['Email'].apply(lambda x: re.sub(r'\s+', '', x))
 df['Email'] = df['Email'].apply(lambda x: x if pd.isna(df['Email'].where(df['Email'] == x).count()) else x[:-10] + str(df['Email'].where(df['Email'] == x).count()) + "@gmail.com")
 
-df.to_csv('C_graphics/students_with_emails.csv', index=False)
+df.to_csv('students_with_emails.csv', index=False)
