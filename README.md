@@ -20,3 +20,14 @@ This project demonstrates how to use pandas in Python . It includes examples of 
 - pandas library
 - openpyxl library
 - logging
+
+## How it works
+
+**Email generator**
+The program reads the stedent names from an excel file and generates an email address for each student. It works as follows
+
+- input : Student's full name
+- output : email address in the format 'firstinitiallastname@gmail.com'
+- the program removes spaces and special characters from the names for generation of email addresses
+- duplicate emails are also handled
+- resultant emails are saved in a new excel file
