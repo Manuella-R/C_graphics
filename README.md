@@ -19,7 +19,9 @@ This project demonstrates how to use pandas in Python . It includes examples of 
 - Python 3 and above
 - pandas library (for data processing)
 - openpyxl library(for handling excel files)
-- logging
+- logging (already installed with python)
+  pandas and openpyxl can be installed from command line using the command
+  **pip install pandas openpyxl**
 
 ## How it works
 
@@ -31,3 +33,7 @@ The program reads the stedent names from an excel file and generates an email ad
 - the program removes spaces and special characters from the names for generation of email addresses
 - duplicate emails are also handled
 - resultant emails are saved in a new excel file
+
+**Gender counter**
+
+**Logging**
