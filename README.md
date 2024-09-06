@@ -26,7 +26,7 @@ This project demonstrates how to use pandas in Python . It includes examples of 
 ## How it works
 
 **Email generator**
-The program reads the stedent names from an excel file and generates an email address for each student. It works as follows
+The program reads the student names from an excel file and generates an email address for each student. It works as follows
 
 - input : Student's full name
 - output : email address in the format 'firstinitiallastname@gmail.com'
@@ -34,6 +34,13 @@ The program reads the stedent names from an excel file and generates an email ad
 - duplicate emails are also handled
 - resultant emails are saved in a new excel file
 
-**Gender counter**
+**Gender counter and logging**
+The programs reads the student names and categorises them according to the 'Gender' column
 
-**Logging**
+- input : Student's full name ,student's gender
+- output : A tsv and csv file of male students and that of female students
+- a log file (students_log.log) will be created recording the number of male and female students
+
+## Additional Notes
+
+This program assumes the existence of 'Student Name' and 'Gender' column in your excel file
