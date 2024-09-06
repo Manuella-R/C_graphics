@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 # Load the data from the Excel file
-df = pd.read_excel(r'C:\Users\rehem\Downloads\TestFiles.xlsx')
+df = pd.read_excel(r'TestFiles.xlsx')
 
 # Function to generate email address by splitting names...
 def generate_email(name):
@@ -28,4 +28,4 @@ df['Email'] = df['Email'].apply(lambda x: re.sub(r'\s+', '', x))
 df['Email'] = df['Email'].apply(lambda x: x if pd.isna(df['Email'].where(df['Email'] == x).count()) else x[:-10] + str(df['Email'].where(df['Email'] == x).count()) + "@gmail.com")
 
 # Save the updated data to a CSV file
-df.to_csv('C_graphics/students_with_emails.csv', index=False)
+df.to_csv('students_with_emails.csv', index=False)
