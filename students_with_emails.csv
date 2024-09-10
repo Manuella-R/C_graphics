@@ -1,65 +1,65 @@
 No. ,Student Number ,Student Name                   ,DoB        ,Email address ,Gender ,Email
-  1 ,        144234 ,Abwoga Adrian Jared Paul       ,6/17/2000  ,              ,M      ,apaul1@gmail.com
-  2 ,        145587 ,Akong'o Shanelle Hilda Anyango ,11/14/2001 ,              ,F      ,aanyango1@gmail.com
-  3 ,        145401 ,Ang'edu Jude Ocomil            ,8/21/2003  ,              ,M      ,aocomil1@gmail.com
-  4 ,        140801 ,Arunga Kyla Neema              ,10/26/2003 ,              ,F      ,aneema1@gmail.com
-  5 ,        137357 ,Atenya Anthony Magunga Ikobwa  ,3/17/2002  ,              ,M      ,aikobwa1@gmail.com
-  6 ,        145346 ,Budembeshe Moses Kasuni        ,2/24/2002  ,              ,M      ,bkasuni1@gmail.com
-  7 ,        146320 ,Dessalegn Kalid Geleta         ,9/7/2000   ,              ,M      ,dgeleta1@gmail.com
-  8 ,        134693 ,Epetet Keith Lokwei            ,6/8/2001   ,              ,M      ,elokwei1@gmail.com
-  9 ,        146356 ,Ger David Otieno               ,1/28/2001  ,              ,M      ,gotieno1@gmail.com
- 10 ,         87244 ,Githinji Don Moses Thigiti     ,4/12/2000  ,              ,M      ,gthigiti1@gmail.com
- 11 ,        145982 ,Haji Ashir Ali                 ,6/13/2003  ,              ,M      ,hali1@gmail.com
- 12 ,        145644 ,Hassan Fardowsa Abduhakim      ,9/20/2000  ,              ,F      ,habduhakim1@gmail.com
- 13 ,        138551 ,Ismail Ruweida Ali             ,4/8/2000   ,              ,F      ,iali1@gmail.com
- 14 ,        137766 ,Johnson Myles Adebayo          ,4/27/2001  ,              ,M      ,jadebayo1@gmail.com
- 15 ,        141910 ,Kamau Ann Mumbi                ,11/28/2001 ,              ,F      ,kmumbi1@gmail.com
- 16 ,        145883 ,Kangethe Sharon Wanjiru        ,2/20/2000  ,              ,F      ,kwanjiru1@gmail.com
- 17 ,        145702 ,Karanu Neema Muthoni           ,11/24/2001 ,              ,F      ,kmuthoni1@gmail.com
- 18 ,        146015 ,Kiarie Samuel Ndungu           ,6/9/2000   ,              ,M      ,kndungu1@gmail.com
- 19 ,        146273 ,Kihara Shannon Kendi           ,10/14/2002 ,              ,F      ,kkendi1@gmail.com
- 20 ,        131652 ,Kimutai Peter Kibet            ,9/16/2002  ,              ,M      ,kkibet1@gmail.com
- 21 ,        146602 ,Kinyua Victor Mfana            ,10/28/2003 ,              ,M      ,kmfana1@gmail.com
- 22 ,        138458 ,Kirema Ian Muteithia           ,3/1/2001   ,              ,M      ,kmuteithia1@gmail.com
- 23 ,        122992 ,Kithae Eric Muriithi           ,10/2/2000  ,              ,M      ,kmuriithi1@gmail.com
- 24 ,        145460 ,Korir Kevin Kimutai            ,10/26/2002 ,              ,M      ,kkimutai1@gmail.com
- 25 ,        145493 ,Kwoba Alex Wafula              ,4/26/2002  ,              ,M      ,kwafula1@gmail.com
- 26 ,        141706 ,Maritim Kelvin Kipngeno        ,10/23/2000 ,              ,M      ,mkipngeno1@gmail.com
- 27 ,        102206 ,Masaka Zivai Takadiwa David    ,7/6/2002   ,              ,M      ,mdavid1@gmail.com
- 28 ,        138493 ,Mohamed Ally Mahamud           ,4/4/2003   ,              ,M      ,mmahamud1@gmail.com
- 29 ,        146357 ,Morekwa David Nyamongo         ,2/13/2001  ,              ,M      ,mnyamongo1@gmail.com
- 30 ,        144955 ,Mugambi Kelvin Karani          ,4/10/2000  ,              ,M      ,mkarani1@gmail.com
- 31 ,        122279 ,Muhia Victor Mwaura            ,9/26/2000  ,              ,M      ,mmwaura1@gmail.com
- 32 ,        145350 ,Muiyuro Natasha Waithira       ,8/19/2002  ,              ,F      ,mwaithira1@gmail.com
- 33 ,        145889 ,Muli Grace Kanini              ,4/27/2000  ,              ,F      ,mkanini1@gmail.com
- 34 ,        138348 ,Muroki Mark Gichuhi            ,12/28/2001 ,              ,M      ,mgichuhi1@gmail.com
- 35 ,        145434 ,Mutaki Ruby Mbete              ,6/17/2002  ,              ,F      ,mmbete1@gmail.com
- 36 ,        146098 ,Mutua Franklin Karanja         ,10/21/2003 ,              ,M      ,mkaranja1@gmail.com
- 37 ,        134362 ,Mutunga Eric Kiamba            ,7/11/2003  ,              ,M      ,mkiamba1@gmail.com
- 38 ,        141855 ,Mutunga Patience Kamanthe      ,8/8/2000   ,              ,F      ,mkamanthe1@gmail.com
- 39 ,        145840 ,Mwanda George Josiah           ,2/20/2000  ,              ,M      ,mjosiah1@gmail.com
- 40 ,        145706 ,Nabaala Andrew Kasaine         ,7/27/2001  ,              ,M      ,nkasaine1@gmail.com
- 41 ,        145890 ,Naibei Monicah                 ,11/28/2002 ,              ,F      ,nmonicah1@gmail.com
- 42 ,        145353 ,Ndambiri Yvonne Nyambura       ,7/21/2002  ,              ,F      ,nnyambura1@gmail.com
- 43 ,        136559 ,Ndungu Sarah Laura Wangari     ,10/1/2003  ,              ,F      ,nwangari1@gmail.com
- 44 ,        145547 ,Ng'ang'a Ian Mutuge            ,1/23/2001  ,              ,M      ,nmutuge1@gmail.com
- 45 ,        145732 ,Ngeno Alvin Kipkurui           ,12/22/2002 ,              ,M      ,nkipkurui1@gmail.com
- 46 ,         89724 ,Ngigi Michael Macharia         ,8/11/2003  ,              ,M      ,nmacharia1@gmail.com
- 47 ,        137222 ,Njuguna Elizabeth Njoki        ,7/7/2000   ,              ,F      ,nnjoki1@gmail.com
- 48 ,        146197 ,Nugi Andrew Kiarie             ,4/15/2003  ,              ,M      ,nkiarie1@gmail.com
- 49 ,        139010 ,Nyambura Erica                 ,8/26/2002  ,              ,F      ,nerica1@gmail.com
- 50 ,        139471 ,Nzioki Maureen Mutete          ,10/5/2002  ,              ,F      ,nmutete1@gmail.com
- 51 ,        138897 ,Ochanda Steven Joel Jona       ,4/2/2000   ,              ,M      ,ojona1@gmail.com
- 52 ,        128099 ,Ogutu Brenda Mary Anyango      ,4/24/2002  ,              ,F      ,oanyango1@gmail.com
- 53 ,        138367 ,Ombeni Mwenzangu Faraja        ,12/3/2001  ,              ,M      ,ofaraja1@gmail.com
- 54 ,        124965 ,Ombongi Caleb Magare           ,9/27/2002  ,              ,M      ,omagare1@gmail.com
- 55 ,        137668 ,Orony Charis Ng'wono           ,1/16/2000  ,              ,F      ,ongwono1@gmail.com
- 56 ,        142005 ,Owens Nicole Owens             ,9/14/2000  ,              ,F      ,oowens1@gmail.com
- 57 ,        141756 ,Patel Jay Hirji                ,6/25/2003  ,              ,M      ,phirji1@gmail.com
- 58 ,        145837 ,Tonui Martin                   ,6/2/2002   ,              ,M      ,tmartin1@gmail.com
- 59 ,        132747 ,Tum Bramwel Kipchirchir        ,2/6/2001   ,              ,M      ,tkipchirchir1@gmail.com
- 60 ,        143621 ,Wachira Joy Muthoni            ,8/7/2001   ,              ,F      ,wmuthoni1@gmail.com
- 61 ,        146360 ,Wakaba Rosemary Njeri          ,1/11/2000  ,              ,F      ,wnjeri1@gmail.com
- 62 ,        124342 ,Wanjao Louis Mbugua            ,4/20/2001  ,              ,M      ,wmbugua1@gmail.com
- 63 ,        145356 ,Waweru Monika Ng'endo          ,5/20/2002  ,              ,F      ,wngendo1@gmail.com
- 64 ,        137931 ,Waweru Trevor Kariuki          ,4/19/2002  ,              ,M      ,wkariuki1@gmail.com
+  1 ,        144234 ,Abwoga Adrian Jared Paul       ,6/17/2000  ,              ,M      ,apaul@gmail.com
+  2 ,        145587 ,Akong'o Shanelle Hilda Anyango ,11/14/2001 ,              ,F      ,aanyango@gmail.com
+  3 ,        145401 ,Ang'edu Jude Ocomil            ,8/21/2003  ,              ,M      ,aocomil@gmail.com
+  4 ,        140801 ,Arunga Kyla Neema              ,10/26/2003 ,              ,F      ,aneema@gmail.com
+  5 ,        137357 ,Atenya Anthony Magunga Ikobwa  ,3/17/2002  ,              ,M      ,aikobwa@gmail.com
+  6 ,        145346 ,Budembeshe Moses Kasuni        ,2/24/2002  ,              ,M      ,bkasuni@gmail.com
+  7 ,        146320 ,Dessalegn Kalid Geleta         ,9/7/2000   ,              ,M      ,dgeleta@gmail.com
+  8 ,        134693 ,Epetet Keith Lokwei            ,6/8/2001   ,              ,M      ,elokwei@gmail.com
+  9 ,        146356 ,Ger David Otieno               ,1/28/2001  ,              ,M      ,gotieno@gmail.com
+ 10 ,         87244 ,Githinji Don Moses Thigiti     ,4/12/2000  ,              ,M      ,gthigiti@gmail.com
+ 11 ,        145982 ,Haji Ashir Ali                 ,6/13/2003  ,              ,M      ,hali@gmail.com
+ 12 ,        145644 ,Hassan Fardowsa Abduhakim      ,9/20/2000  ,              ,F      ,habduhakim@gmail.com
+ 13 ,        138551 ,Ismail Ruweida Ali             ,4/8/2000   ,              ,F      ,iali@gmail.com
+ 14 ,        137766 ,Johnson Myles Adebayo          ,4/27/2001  ,              ,M      ,jadebayo@gmail.com
+ 15 ,        141910 ,Kamau Ann Mumbi                ,11/28/2001 ,              ,F      ,kmumbi@gmail.com
+ 16 ,        145883 ,Kangethe Sharon Wanjiru        ,2/20/2000  ,              ,F      ,kwanjiru@gmail.com
+ 17 ,        145702 ,Karanu Neema Muthoni           ,11/24/2001 ,              ,F      ,kmuthoni@gmail.com
+ 18 ,        146015 ,Kiarie Samuel Ndungu           ,6/9/2000   ,              ,M      ,kndungu@gmail.com
+ 19 ,        146273 ,Kihara Shannon Kendi           ,10/14/2002 ,              ,F      ,kkendi@gmail.com
+ 20 ,        131652 ,Kimutai Peter Kibet            ,9/16/2002  ,              ,M      ,kkibet@gmail.com
+ 21 ,        146602 ,Kinyua Victor Mfana            ,10/28/2003 ,              ,M      ,kmfana@gmail.com
+ 22 ,        138458 ,Kirema Ian Muteithia           ,3/1/2001   ,              ,M      ,kmuteithia@gmail.com
+ 23 ,        122992 ,Kithae Eric Muriithi           ,10/2/2000  ,              ,M      ,kmuriithi@gmail.com
+ 24 ,        145460 ,Korir Kevin Kimutai            ,10/26/2002 ,              ,M      ,kkimutai@gmail.com
+ 25 ,        145493 ,Kwoba Alex Wafula              ,4/26/2002  ,              ,M      ,kwafula@gmail.com
+ 26 ,        141706 ,Maritim Kelvin Kipngeno        ,10/23/2000 ,              ,M      ,mkipngeno@gmail.com
+ 27 ,        102206 ,Masaka Zivai Takadiwa David    ,7/6/2002   ,              ,M      ,mdavid@gmail.com
+ 28 ,        138493 ,Mohamed Ally Mahamud           ,4/4/2003   ,              ,M      ,mmahamud@gmail.com
+ 29 ,        146357 ,Morekwa David Nyamongo         ,2/13/2001  ,              ,M      ,mnyamongo@gmail.com
+ 30 ,        144955 ,Mugambi Kelvin Karani          ,4/10/2000  ,              ,M      ,mkarani@gmail.com
+ 31 ,        122279 ,Muhia Victor Mwaura            ,9/26/2000  ,              ,M      ,mmwaura@gmail.com
+ 32 ,        145350 ,Muiyuro Natasha Waithira       ,8/19/2002  ,              ,F      ,mwaithira@gmail.com
+ 33 ,        145889 ,Muli Grace Kanini              ,4/27/2000  ,              ,F      ,mkanini@gmail.com
+ 34 ,        138348 ,Muroki Mark Gichuhi            ,12/28/2001 ,              ,M      ,mgichuhi@gmail.com
+ 35 ,        145434 ,Mutaki Ruby Mbete              ,6/17/2002  ,              ,F      ,mmbete@gmail.com
+ 36 ,        146098 ,Mutua Franklin Karanja         ,10/21/2003 ,              ,M      ,mkaranja@gmail.com
+ 37 ,        134362 ,Mutunga Eric Kiamba            ,7/11/2003  ,              ,M      ,mkiamba@gmail.com
+ 38 ,        141855 ,Mutunga Patience Kamanthe      ,8/8/2000   ,              ,F      ,mkamanthe@gmail.com
+ 39 ,        145840 ,Mwanda George Josiah           ,2/20/2000  ,              ,M      ,mjosiah@gmail.com
+ 40 ,        145706 ,Nabaala Andrew Kasaine         ,7/27/2001  ,              ,M      ,nkasaine@gmail.com
+ 41 ,        145890 ,Naibei Monicah                 ,11/28/2002 ,              ,F      ,nmonicah@gmail.com
+ 42 ,        145353 ,Ndambiri Yvonne Nyambura       ,7/21/2002  ,              ,F      ,nnyambura@gmail.com
+ 43 ,        136559 ,Ndungu Sarah Laura Wangari     ,10/1/2003  ,              ,F      ,nwangari@gmail.com
+ 44 ,        145547 ,Ng'ang'a Ian Mutuge            ,1/23/2001  ,              ,M      ,nmutuge@gmail.com
+ 45 ,        145732 ,Ngeno Alvin Kipkurui           ,12/22/2002 ,              ,M      ,nkipkurui@gmail.com
+ 46 ,         89724 ,Ngigi Michael Macharia         ,8/11/2003  ,              ,M      ,nmacharia@gmail.com
+ 47 ,        137222 ,Njuguna Elizabeth Njoki        ,7/7/2000   ,              ,F      ,nnjoki@gmail.com
+ 48 ,        146197 ,Nugi Andrew Kiarie             ,4/15/2003  ,              ,M      ,nkiarie@gmail.com
+ 49 ,        139010 ,Nyambura Erica                 ,8/26/2002  ,              ,F      ,nerica@gmail.com
+ 50 ,        139471 ,Nzioki Maureen Mutete          ,10/5/2002  ,              ,F      ,nmutete@gmail.com
+ 51 ,        138897 ,Ochanda Steven Joel Jona       ,4/2/2000   ,              ,M      ,ojona@gmail.com
+ 52 ,        128099 ,Ogutu Brenda Mary Anyango      ,4/24/2002  ,              ,F      ,oanyango@gmail.com
+ 53 ,        138367 ,Ombeni Mwenzangu Faraja        ,12/3/2001  ,              ,M      ,ofaraja@gmail.com
+ 54 ,        124965 ,Ombongi Caleb Magare           ,9/27/2002  ,              ,M      ,omagare@gmail.com
+ 55 ,        137668 ,Orony Charis Ng'wono           ,1/16/2000  ,              ,F      ,ongwono@gmail.com
+ 56 ,        142005 ,Owens Nicole Owens             ,9/14/2000  ,              ,F      ,oowens@gmail.com
+ 57 ,        141756 ,Patel Jay Hirji                ,6/25/2003  ,              ,M      ,phirji@gmail.com
+ 58 ,        145837 ,Tonui Martin                   ,6/2/2002   ,              ,M      ,tmartin@gmail.com
+ 59 ,        132747 ,Tum Bramwel Kipchirchir        ,2/6/2001   ,              ,M      ,tkipchirchir@gmail.com
+ 60 ,        143621 ,Wachira Joy Muthoni            ,8/7/2001   ,              ,F      ,wmuthoni@gmail.com
+ 61 ,        146360 ,Wakaba Rosemary Njeri          ,1/11/2000  ,              ,F      ,wnjeri@gmail.com
+ 62 ,        124342 ,Wanjao Louis Mbugua            ,4/20/2001  ,              ,M      ,wmbugua@gmail.com
+ 63 ,        145356 ,Waweru Monika Ng'endo          ,5/20/2002  ,              ,F      ,wngendo@gmail.com
+ 64 ,        137931 ,Waweru Trevor Kariuki          ,4/19/2002  ,              ,M      ,wkariuki@gmail.com
